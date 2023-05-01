@@ -2,3 +2,4 @@ bazı değişiklikler yaptım
 remote da kodlar ekledim
 
 gitignore yaptıktan sonra git takip edecek mi bakalım
+bir daha deniyorum
